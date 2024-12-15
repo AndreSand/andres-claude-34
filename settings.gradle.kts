@@ -1,2 +1,1 @@
-rootProject.name = "HelloWorldCompose"
-include(":app")
+cm9vdFByb2plY3QubmFtZSA9ICJIZWxsb1dvcmxkQ29tcG9zZSIKaW5jbHVkZSgiOmFwcCIp
